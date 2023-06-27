@@ -22,3 +22,5 @@ index.jsp 부터 실행하여 회원가입 진행.
 로그인 (로그인 실패 / 성공 ) / 로그아웃
 게시판 게시글 작성, 확인 ( 성공 / 실패 )
 게시판 게시글 수정, 삭제 ( 성공 / 실패 )
+
+https://github.com/gimssam/backtest/assets/67052157/c1e87bc9-4e1d-4b30-ac52-f0cbc05b1632
