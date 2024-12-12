@@ -24,3 +24,5 @@ index.jsp 부터 실행하여 회원가입 진행.
 게시판 게시글 수정, 삭제 ( 성공 / 실패 )
 
 https://github.com/gimssam/backtest/assets/67052157/c1e87bc9-4e1d-4b30-ac52-f0cbc05b1632
+
+https://github.com/user-attachments/assets/328fbb00-af37-467b-b04b-d3cca319f60e
